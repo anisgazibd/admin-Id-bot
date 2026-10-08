@@ -4,8 +4,8 @@ from telebot import types
 import requests
 
 # ------------------ কনফিগারেশন ------------------
-API_TOKEN = 'YOUR_BOT_API_TOKEN_HERE'   # @BotFather থেকে পাওয়া টোকেন
-ADMIN_ID = 123456789                     # আপনার আসল টেলিগ্রাম Numeric User ID
+API_TOKEN = '8349536460:AAFn7_PbHGVfOVtEMk6lZbGkv6-MXMljSB4'   # @BotFather থেকে পাওয়া টোকেন
+ADMIN_ID = 7299158388                     # আপনার আসল টেলিগ্রাম Numeric User ID
 SHEET_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycby36bbhYI03RxdTl2TH0Vv2gekbd6Mr9gT02vl0Ne9LpRa0HPqoHYsr-409g-jWTXJ_mw/exec' # আপনার গুগল অ্যাপস স্ক্রিপ্ট লিংক
 
 bot = telebot.TeleBot(API_TOKEN)
